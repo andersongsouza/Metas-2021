@@ -31,4 +31,4 @@ Instalar o Mongoose - Mongoose traduz os dados do banco de dados para objetos Ja
 Permitir acesso a API
 ### npm install --save cors
 
-############################  Depois de iniciado o projeto, o sistema cria as tabelas automaticamente   ########################################
+##################  Depois de iniciado o projeto, o sistema cria as tabelas automaticamente   ##########################
